@@ -25,7 +25,7 @@ a:hover {
 }
 
 body {
-  font-family: "Montserrat-VariableFont_wght";
+  font-family: "Montserrat";
 }
 .yellow {
   background: #579bb1;
@@ -57,10 +57,3 @@ body {
   font-size: 20px;
 }
 
-@font-face {
-font-family: "Montserrat-VariableFont_wght";
-src: url("http://snehalrajshah.github.io/cv/css/fonts/montserrat-variablefont_wght-webfont.eot");
-src: url("http://snehalrajshah.github.io/cv/css/fonts/montserrat-variablefont_wght-webfont.woff") format("woff"),
-url("http://snehalrajshah.github.io/cv/css/fonts/Montserrat-VariableFont_wght.otf"),
-url("https://snehalrajshah.github.io/cv/css/fonts/montserrat-variablefont_wght-webfont.svg") format("svg");
-}
